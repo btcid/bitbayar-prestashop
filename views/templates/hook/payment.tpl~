@@ -1,0 +1,11 @@
+<p class="payment_module">
+
+<a href="{$this_path}payment.php" title="{l s='Pay with NewBitBayar' mod='{$this_name}'}">
+
+<img src="{$this_path}logo-bitbayar.png" width="86" height="49" alt="{l s='Pay with BitBayar' mod='{$this_name}'}" />
+
+{l s='Pay with Bitcoin' mod='bitbayar'}
+
+</a>
+
+</p>
